@@ -5,4 +5,8 @@
 These commands can be used by Amanda to navigate to her home directory
 
 2. Relative Path Resolution
-	ls ../backup displays original  pnas-final  pnas sub
+	ls ../backup displays original  pnas_final  pnas_sub
+
+3. ls Reading Comprehension
+	commands that will display reverse order are #2 and #3, ls -r -F      and   ls -r -F /Users/backup
+
