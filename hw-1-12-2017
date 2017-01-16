@@ -10,3 +10,6 @@ These commands can be used by Amanda to navigate to her home directory
 3. ls Reading Comprehension
 	commands that will display reverse order are #2 and #3, ls -r -F      and   ls -r -F /Users/backup
 
+4. Exploring More ls Arguments
+ls -l: shows the file/directory names that are located, in addition with file size and date of last modification
+ls -h: shows the files or folders that are located in the folder/directory
