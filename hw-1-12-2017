@@ -3,3 +3,6 @@
 	8. cd 
 	9. cd ..
 These commands can be used by Amanda to navigate to her home directory
+
+2. Relative Path Resolution
+	ls ../backup displays original  pnas-final  pnas sub
