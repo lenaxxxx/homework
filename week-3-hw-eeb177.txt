@@ -1,0 +1,12 @@
+Homework answers
+
+Answer 1. Hormone levels in Baboons
+	1. Individual 3 was recorded 61 times
+	   Individual 27 was recorded 5 times
+	2. cut -f 1 Gesquiere2011_data.csv | grep -w <male ID> 
+	3. cut -f 1 Gesquiere2011_data.csv | grep -w <male ID> | wc -l
+
+Answer 2. Plant Pollinator Network
+
+
+
