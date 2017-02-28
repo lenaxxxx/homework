@@ -1,0 +1,20 @@
+1) The following are valid R variable names:
+min_height
+max.height
+MaxLength
+celsius2kelvin
+
+2) What will be the value of each variable after each statement in the following program?
+
+mass <- 47.5 (variable of mass will be 47.5)
+age <- 122 (variable of age will be 122)
+mass <- mass * 2.3 (the mass of 47.5 will multiply 2.3 to give a new mass variable)
+age <- age - 20 ( the age of 122 will be substracted by 20 and giving 102 as new age varibale)
+
+3) Clean up your working environment by deleting the mass and age variables.
+rm(age, mass)
+
+4) Install the ggplot2 package
+install.packages("ggplot2")
+
+
